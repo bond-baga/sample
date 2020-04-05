@@ -1,5 +1,7 @@
 ﻿Option Explicit On
 
+
+
 Public Class DataGridViewEx
   Inherits DataGridView
 
